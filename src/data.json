@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cama Palta Lover",
+        "categoria": "camas",
+        "cantidad": 1,
+        "precio": 100000,
+        "stock": 5,
+        "img": "https://felinus.cl/7023-medium_default/brnx-cama-palta-lover.jpg",
+        "descripcion": "la cama está hecha con materiales de alta calidad que garantizan la durabilidad y la comodidad que tu gato merece."
+    },
+    {
+        "id": 2,
+        "nombre": "Hamaca para Gatos",
+        "categoria": "camas",
+        "cantidad": 1,
+        "precio": 100000,
+        "stock": 5,
+        "img": "https://felinus.cl/6213-medium_default/hamaca-para-gatos.jpg",
+        "descripcion": "Experimenta la máxima comodidad y una vista espectacular con esta novedosa cama hamaca para gatos."
+    },
+    {
+        "id": 3,
+        "nombre": "Cama Iglú de Fieltro",
+        "categoria": "camas",
+        "cantidad": 1,
+        "precio": 100000,
+        "stock": 5,
+        "img": "https://felinus.cl/5050-medium_default/pawise-cama-iglu-de-fieltro.jpg",
+        "descripcion": "Cama Iglú de Fieltro tiene una apariencia única y moderna, este acogedor refugio no se verá fuera de lugar en ninguna habitación."
+    },
+    {
+        "id": 4,
+        "nombre": "Rasguñador Banca",
+        "categoria": "rascadores",
+        "cantidad": 1,
+        "precio": 100000,
+        "stock": 5,
+        "img": "https://felinus.cl/5504-medium_default/catit-rasgunador-banca.jpg",
+        "descripcion": "Rasguñador Banca para gatos con forma horizontal, fabricado con cartón corrugado firme."
+    },
+    {
+        "id": 5,
+        "nombre": "Rasguñador Jungla",
+        "categoria": "rascadores",
+        "cantidad": 1,
+        "precio": 100000,
+        "stock": 5,
+        "img": "https://felinus.cl/5500-medium_default/catit-rasgunador-jungla.jpg",
+        "descripcion": "Rasguñador Jungla para gatos con forma horizontal, fabricado con cartón corrugado firme."
+    },
+    {
+        "id": 6,
+        "nombre": "Rasguñador Mariposa",
+        "categoria": "rascadores",
+        "cantidad": 1,
+        "precio": 100000,
+        "stock": 5,
+        "img": "https://felinus.cl/5508-medium_default/catit-rasgunador-mariposa.jpg",
+        "descripcion": "Rasguñador Mariposa para gatos con forma horizontal, fabricado con cartón corrugado firme y un moderno diseño de mariposas blancas sobre fondo morado."
+    },
+    {
+        "id": 7,
+        "nombre": "Centro de Masajes",
+        "categoria": "juguetes",
+        "cantidad": 1,
+        "precio": 100000,
+        "stock": 5,
+        "img": "https://felinus.cl/525-medium_default/catit-centro-de-masajes-para-gatos.jpg",
+        "descripcion": "con cepillos, crestas de masaje y diferentes texturas, su diseño está pensado para que tu gato encuentre el bienestar en este centro."
+    },
+    {
+        "id": 8,
+        "nombre": "Circuito con Masajeador",
+        "categoria": "juguetes",
+        "cantidad": 1,
+        "precio": 100000,
+        "stock": 5,
+        "img": "https://felinus.cl/2147-medium_default/catit-play-circuito-con-masajeador.jpg",
+        "descripcion": "Un entretenido juguete compuesto por un circuito, una abeja saltarina y cepillos masajeadores"
+    },
+    {
+        "id": 9,
+        "nombre": "Circuito con Rasguñador",
+        "categoria": "juguetes",
+        "cantidad": 1,
+        "precio": 100000,
+        "stock": 5,
+        "img": "https://felinus.cl/2151-medium_default/catit-play-circuito-con-rasgunador.jpg",
+        "descripcion": "Un entretenido juguete compuesto por un circuito, una abeja saltarina y un rascador de cartón que mantendrán a tus gatos ocupados y estimulados."
+    }
+]
